@@ -1,9 +1,10 @@
 import Home from "./pages/home/Home.jsx";
-import About from "./pages/about/About";
+import About from "./pages/about/About.jsx";
 import Portfolio from "./pages/portfolio/Portfolio.jsx";
 import Contact from "./pages/contact/Contact";
 import { createBrowserRouter, RouterProvider } from "react-router";
 import AppLayout from "./components/AppLayout";
+import Contact from "./pages/Contact";
 
 const App = () => {
   const router = createBrowserRouter([
