@@ -1,5 +1,5 @@
 import Info from "../../components/Info";
-import Stats from "../../components/stats";
+import Stats from "/components/Stats.jsx";
 import Cv from "../../pdf/Resume-1.pdf";
 import { RiDownload2Line } from "react-icons/ri";
 import { skill } from "../../Data";
