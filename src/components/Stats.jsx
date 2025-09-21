@@ -1,7 +1,7 @@
 import { stats } from "../Data";
 import parse from "html-react-parser";
 
-const Stats = () => {
+const stats = () => {
   return (
     <>
       {stats.map(({ no, title }, index) => {
@@ -15,4 +15,4 @@ const Stats = () => {
     </>
   );
 };
-export default Stats;
+export default stats;
