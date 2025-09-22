@@ -1,5 +1,5 @@
 import Info from "../../components/Info.jsx";
-import Stats from "../../components/stats.jsx";
+import Stats from "../../components/Stats.jsx";
 import Cv from "../../pdf/Resume-1.pdf";
 import { RiDownload2Line } from "react-icons/ri";
 import { skill } from "../../Data";
@@ -33,7 +33,7 @@ const About = () => {
           </div>
 
           <div className="stats grid">
-            <Stats></Stats>
+            <Stats/>
           </div>
         </div>
       </section>

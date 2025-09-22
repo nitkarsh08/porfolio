@@ -164,7 +164,7 @@ export const skill = [
   {
     id: 5,
     img: skillsImg5,
-    title: "PHP",
+    title: "Tailwind CSS",
     level: "Intermediate",
     category: "developer",
   },
