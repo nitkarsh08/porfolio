@@ -8,7 +8,7 @@ import SkillsItem from "../../components/SkillsItem";
 import { resume } from "../../Data";
 import ResumeItem from "../../components/ResumeItem";
 
-import "./about.css";
+import "./About.css";
 // import { Component } from "react";
 
 const About = () => {
