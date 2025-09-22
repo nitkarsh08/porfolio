@@ -276,47 +276,47 @@ export const portfolio = [
     description:
       "Short information of me in this website ...Everything is available about me ..",
     skills: [skillsImg4, skillsImg5],
-    link: "https://b2vgnnd5-5173.inc1.devtunnels.ms/",
+    link: "https://porfolio-vdgw.vercel.app/",
   },
 
   {
     id: 2,
     img: projectImg2,
-    title: "Bank management",
+    title: "Weather App",
     description:
-      "Short description of the project that was carried out in this portfolio.",
-    skills: [skillsImg6, skillsImg7],
-    link: "",
+      "This React Weather App allows users to search any city and view current weather details like temperature.",
+    skills: [skillsImg4, skillsImg5,skillsImg1, skillsImg2, skillsImg3],
+    link: "https://weather-app-sigma-tan-99.vercel.app/",
   },
 
   {
     id: 3,
     img: projectImg3,
-    title: "Restaurant Landing Page",
+    title: "Percentage Calculator",
     description:
       "Short description of the project that was carried out in this portfolio.",
-    skills: [skillsImg1, skillsImg2, skillsImg3],
-    link: "",
+    skills: [skillsImg1, skillsImg2, skillsImg3,skillsImg4,skillsImg5],
+    link: "https://percentage-calculator-orpin.vercel.app/",
   },
 
   {
     id: 4,
     img: projectImg4,
-    title: "Barbershop Website",
+    title: "Take Scheduler App",
     description:
-      "Short description of the project that was carried out in this portfolio.",
-    skills: [skillsImg4, skillsImg5],
-    link: "",
+      "This React app basically a person set out task with priority and date time , upcoming and completed task showing",
+    skills: [skillsImg4, skillsImg5,skillsImg1, skillsImg2, skillsImg3],
+    link: "https://college-duniya-sdm9.vercel.app/",
   },
 
   {
     id: 5,
     img: projectImg5,
-    title: "flight Reservation",
+    title: "College Duniya",
     description:
-      "Short description of the project that was carried out in this portfolio.",
-    skills: [skillsImg1, skillsImg2, skillsImg3],
-    link: "",
+      "This React website is used more modules and functions , login page and Dashboard in here",
+    skills: [skillsImg4, skillsImg5,skillsImg1, skillsImg2, skillsImg3],
+    link: "https://college-duniya-five.vercel.app/",
   },
 ];
 
